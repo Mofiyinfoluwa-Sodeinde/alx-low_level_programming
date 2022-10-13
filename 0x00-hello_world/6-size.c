@@ -1,12 +1,9 @@
 #include <stdio.h>
 
 /**
- *
- * main - prints the size of various types
- *
+ * main - prints the size of various types*
  * Return: 0 if closed properly. 1 otherwise
- *
-*/
+ */
 
 int main(void)
 
