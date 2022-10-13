@@ -1,14 +1,12 @@
 #include <stdio.h>
 
-
-
 /**
  *
  * main - prints the size of various types
  *
- * if exited properly print 0, non-zero otherwise
+ * Return: 0 if closed properly. 1 otherwise
  *
- *    */
+*/
 
 int main(void)
 
