@@ -3,9 +3,9 @@
 #include<stdio.h>
 
 /**
- * main - gives a random number to int n everytime
- * it executes, and prints it 
- * Return: Always 0 (Success)
+ * main - gives a random number to int n everytime,
+ * it executes, and prints it,
+ * Return: 0 if closed properly, otherwise 1
  */
 int main(void)
 {
