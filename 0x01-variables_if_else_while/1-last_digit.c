@@ -6,7 +6,6 @@
 
 /**
  * main - prints the last digit,
- *
  * Return: returns 0
  * 
  */
