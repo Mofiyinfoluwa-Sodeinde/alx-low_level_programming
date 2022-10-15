@@ -5,9 +5,10 @@
 #include <stdio.h>
 
 /**
- * main - prints the last digit 
+ * main - prints the last digit,
  *
  * Return: returns 0
+ * 
  */
 
 int main(void)
