@@ -2,7 +2,7 @@
 
 /**
  * main - prints the alphabet in lowercase
- *
+ * 
  * Returns: returns 0
  */
 int main(void)
@@ -15,6 +15,6 @@ int main(void)
 			putchar(c);
 			c++
 		}
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
