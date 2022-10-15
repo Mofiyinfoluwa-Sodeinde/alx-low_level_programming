@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point, 
+ * main - Entry point 
  *
- * Return: 0 if closed properly, otherwise 1
+ * Return: Always 0 (success)
  */
 int main(void)
 {
