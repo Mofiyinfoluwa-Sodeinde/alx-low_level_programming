@@ -7,14 +7,10 @@
  */
 int main(void)
 {
-	char c;
-
-	c = 'a';
-	while
-		(c <= 'z'){
-			putchar(c);
-			c++
-		}
-	putchar('\n');
-	return (0);
+	int ch;
+        printf(“Print all lowercase letters o the next line :\n”); 
+	for (ch= ‘a’; ch<= ‘z’; ch++)
+		putchar(ch);
+			putchar (‘\n’) ;
+	return(0);
 }
