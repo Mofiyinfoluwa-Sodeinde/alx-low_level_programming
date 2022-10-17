@@ -3,7 +3,7 @@
 
 /**
  * main - prints exactly and that piece of art is useful
- * - 
+ * -
  * Return: 0 if closed properly, otherwise 1
  */
 int main(void)
