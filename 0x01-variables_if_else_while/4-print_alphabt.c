@@ -8,12 +8,15 @@
 int main(void)
 {
 	char qe;
+	
 	for (qe = 'a'; qe <= 'z'; qe++)
 	{
-		if qe != 'e' && qe != 'q'
+		if (qe != 'e' && qe != 'q')
 			putchar(qe);
 	}
+
 	putchar('\n');
+	
 	return (0);
 }
 
