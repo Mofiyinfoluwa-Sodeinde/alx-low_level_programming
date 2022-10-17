@@ -1,16 +1,17 @@
 #include <stdio.h>
 
-/**
- * main - prints the alphabet in lowercase
+/** main - prints the alphabet in lowercase
  * 
- * Returns: returns 0
+ * Return: returns 0
  */
-int main(void)
+int void(main)
 {
-	int ch;
-        printf(“Print all lowercase letters o the next line :\n”); 
-	for (ch= ‘a’; ch<= ‘z’; ch++)
+	char ch;
+
+	for (ch = 'a'; ch <= 'z'; ch++)
+	{
 		putchar(ch);
-			putchar (‘\n’) ;
-	return(0);
+	}
+	putchar('\n');
+	return (0);
 }
