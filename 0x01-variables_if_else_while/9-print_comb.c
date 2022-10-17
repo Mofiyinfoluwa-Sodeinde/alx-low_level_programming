@@ -3,12 +3,12 @@
 /**
  * main - prints all possible combinations of single-digit numbers.
  *
- * Return:0 if closed properly, otherwise 1
+ * Return: 0 if closed properly, otherwise 1
  */
 int main(void)
 {
 	int n;
-	
+
 	for (n = 48; n < 58; n++)
 	{
 		putchar(n);
@@ -17,9 +17,9 @@ int main(void)
 			putchar(',');
 			putchar(' ');
 		}
-	}	
-	
+	}
+
 	 putchar('\n');
-	 
+
 	 return (0);
 }
