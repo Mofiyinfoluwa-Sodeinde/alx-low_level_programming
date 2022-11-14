@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _strcat
- * @src: copy from
+ * _strcat - concatenates two strings.
  * @dest: copy to
+ * @src: copy from
  * Rreturn: pointer to dest
  */
 char *_strcat(char *dest, char *src)
@@ -25,5 +25,6 @@ char *_strcat(char *dest, char *src)
 	}
 	dest[i] = '\0';
 	return (dest);
+}
 
 
